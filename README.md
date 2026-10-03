@@ -48,8 +48,7 @@ The results
 - **`object-detection/`** — YOLOv7-D6 training and testing on the
   combined real + synthetic dataset, built on the official
   [YOLOv7](https://github.com/WongKinYiu/yolov7) repo.
-- **`experiments/`** — earlier drafts and exploratory attempts that weren't
-  part of the final results (kept for reference, not polished).
+
 
 ## Credit
 
