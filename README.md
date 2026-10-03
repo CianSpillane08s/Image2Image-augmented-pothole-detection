@@ -57,6 +57,6 @@ architectures and the YOLOv7 codebase — the pretrained weights and base
 model code are not original work. The dataset curation, synthetic image
 generation choices, transfer-learning setup, and evaluation are. I would
 like to thank he following for their help with my project
-- Mark Bowe
-- Eoin Walsh
-- Ghais Zaher
+- Mark Bowe -> Advice in tackling and understanding the Irish climate
+- Eoin Walsh -> Advice for developing computer vision models to tackle weather problems
+- Ghais Zaher -> Advice in re-implmenting his Github Repository for CycleGan
